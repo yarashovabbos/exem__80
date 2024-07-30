@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.sidebar {
+  height: 100vh;
+  background-color: blue;
+}
