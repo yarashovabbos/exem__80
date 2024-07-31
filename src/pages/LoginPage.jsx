@@ -24,6 +24,10 @@ const LoginPage = () => {
 
   return (
     <div className="login-page">
+      <div>
+      <p>usernami "admin"</p>
+      <p>password "password"</p>
+      </div>
       <h2>Login</h2>
       <form onSubmit={handleSubmit}>
         <div>
